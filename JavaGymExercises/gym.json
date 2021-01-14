@@ -1,0 +1,15 @@
+[{
+    "GymName": "World Class gym",
+    "Instructor": "Dwayne Johnson",
+    "id": 0,
+    "lvlOfPreparation": ["Beginning Athlete"],
+    "Exercises": ["Enhanced Training"]
+},
+
+    {
+    "GymName": "The HOUSTONIAN CLUB",
+    "Instructor": "Arnold Schwarzenegger",
+    "id": 1,
+    "lvlOfPreparation": ["Advanced Athlete"],
+    "Exercises": ["Light Training"]
+}]

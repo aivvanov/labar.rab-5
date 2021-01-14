@@ -1,0 +1,10 @@
+#spring.application.name: web
+#server.port: 2015
+#
+
+#spring:
+#  cloud:
+#    config:
+#      discovery:
+#        enabled: true
+#        service-id: config-server

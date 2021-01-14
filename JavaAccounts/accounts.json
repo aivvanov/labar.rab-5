@@ -1,0 +1,54 @@
+[{ "username": "Angel Murphy",
+    "id": 1,
+    "membership": [1],
+    "code": 1010
+},
+
+    {
+    "name": "Miguel White",
+    "id": 2,
+    "membership": [],
+    "code": 2020
+},
+
+    {
+    "name": "Sarah Sanders",
+    "id": 3,
+    "membership": [],
+    "code": 3030
+},
+
+    {
+    "name": "Heather Smith",
+    "id": 4,
+    "membership": [],
+    "code": 4040
+},
+
+    {
+    "name": "Ronald Young",
+    "id": 5,
+    "membership": [1],
+    "code": 5050
+},
+
+    {
+    "name": "Robert Brown",
+    "id": 6,
+    "membership": [1],
+    "code": 6060
+},
+
+    {
+    "name": "Laura Rogers",
+    "id": 7,
+    "membership": [1],
+    "code": 7070
+},
+
+    {
+    "name": "Christopher Phillips",
+    "id": 8,
+    "membership": [],
+    "code": 8080
+}]
